@@ -24,7 +24,17 @@
 - ✨ Interested in creating intuitive and user-friendly digital experiences
 
 ---
+## 🎓 Educational Project Experience
 
+### AI-Powered Rental Platform
+**Information Systems Academic Project** | 2025 - Present
+
+Designed and developed a rental platform concept that helps students and young professionals find suitable accommodations through AI-powered recommendations, location insights, verified profiles, and user reviews.
+
+<img src="assets/rental-app-showcase.png" width="100%" alt="Project Showcase">
+
+🔗 Repository: [View Project](https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY)
+---
 ## 🛠️ Languages & Tools
 
 <p align="center">
