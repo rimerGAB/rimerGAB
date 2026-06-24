@@ -3,7 +3,9 @@
   <img src="pics/RIMER-REY A GABALEO.png" alt="Rimer Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rimer-Rey A. Gabaleo</h1>
+<h1 align="center">Hi 👋, I'm Rimer-Rey A. Gabaleo 
+🧠 Passionate about designing experiences that are simple, accessible, and enjoyable for people to use.
+</h1>
 
 <h4 align="center">
 Turning curiosity into creativity through design, code, and continuous learning.
