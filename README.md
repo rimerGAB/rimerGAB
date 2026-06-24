@@ -5,9 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Rimer-Rey A. Gabaleo</h1>
 
-<h3 align="center">
-# Turning curiosity into creativity through design, code, and continuous learning.
-</h3>
+<h2 align="center">
+Turning curiosity into creativity through design, code, and continuous learning.
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rimergab&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rimergab" />
