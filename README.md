@@ -21,16 +21,21 @@ Turning curiosity into creativity through design, code, and continuous learning.
 ---
 
 ## 🚀 About Me
-
+<br>
 ![Information Systems Student](https://img.shields.io/badge/Information%20Systems-Student-blue?style=for-the-badge)
+<br>
 ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-Aspiring-purple?style=for-the-badge)
+<br>
 ![Frontend](https://img.shields.io/badge/Frontend-Learning-0ea5e9?style=for-the-badge)
-
+<br>
 ![Godot](https://img.shields.io/badge/Game%20Development-Godot-478cbf?style=for-the-badge)
+<br>
 ![Pixel Art](https://img.shields.io/badge/Pixel%20Art-Sprite%20Creation-f59e0b?style=for-the-badge)
-
+<br>
 ![User Experience](https://img.shields.io/badge/User%20Experience-Passionate-ec4899?style=for-the-badge)
+<br>
 ![Continuous Learning](https://img.shields.io/badge/Continuous-Learning-22c55e?style=for-the-badge)
+<br>
 
 ---
 ## 🎓 Educational Project Experience
