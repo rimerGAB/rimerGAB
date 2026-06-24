@@ -30,11 +30,11 @@
 
 **Web Application Development (WAD) Final Project** | May 2026
 
-Developed a web-based staff management system using Laravel to streamline the management of departments, employees, projects, and assignments. The application features secure authentication, role-based access control, relational database management, and complete CRUD functionality. Built following the MVC architecture and Laravel best practices to demonstrate practical skills in full-stack web application development.
+Designed and developed a modern staff management system focused on creating a clean, intuitive, and user-friendly experience for managing departments, employees, projects, and assignments. This project allowed me to explore UI/UX principles, responsive interface design, and frontend development while implementing secure backend functionality using Laravel.
 
 <img src="pics/dashboard.jpg" width="100%" alt="Assignly Showcase">
 
-🔗 Repository: [View Project](YOUR_REPOSITORY_LINK)
+🔗 Repository: [View Project]([https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY])
 
 ---
 ## 🛠️ Languages & Tools
