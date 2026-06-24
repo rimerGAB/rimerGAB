@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Rimer Banner" width="100%">
+  <img src="pics/RIMER-REY A GABALEO.png" alt="Rimer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rimer-Rey A. Gabaleo</h1>
