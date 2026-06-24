@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rimer-Rey A. Gabaleo 
-🧠 Passionate about designing experiences that are simple, accessible, and enjoyable for people to use.
 </h1>
 
 <h4 align="center">
+🧠 Passionate about designing experiences that are simple, accessible, and enjoyable for people to use.\n
 Turning curiosity into creativity through design, code, and continuous learning.
 </h4>
 <h4>
