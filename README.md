@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rimer-Rey A. Gabaleo</h1>
 
 <h3 align="center">
-#Turning curiosity into creativity through design, code, and continuous learning.
+# Turning curiosity into creativity through design, code, and continuous learning.
 </h3>
 
 <p align="center">
