@@ -22,19 +22,72 @@ Turning curiosity into creativity through design, code, and continuous learning.
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td>
+
 <img src="https://img.shields.io/badge/Information%20Systems-Student-blue?style=for-the-badge">
+
+Pursuing a degree in Information Systems while building a strong foundation in technology and software development.
+
+</td>
+
+<td>
 
 <img src="https://img.shields.io/badge/UI%2FUX-Aspiring-purple?style=for-the-badge">
 
+Learning to design intuitive, accessible, and meaningful digital experiences.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
 <img src="https://img.shields.io/badge/Frontend-Learning-0ea5e9?style=for-the-badge">
+
+Exploring modern frontend technologies to create responsive and engaging web applications.
+
+</td>
+
+<td>
 
 <img src="https://img.shields.io/badge/Game%20Development-Godot-478cbf?style=for-the-badge">
 
+Experimenting with game mechanics, systems, and interactive experiences using Godot.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
 <img src="https://img.shields.io/badge/Pixel%20Art-Sprite%20Creation-f59e0b?style=for-the-badge">
+
+Creating pixel art and sprites as part of my game development and creative projects.
+
+</td>
+
+<td>
 
 <img src="https://img.shields.io/badge/User%20Experience-Passionate-ec4899?style=for-the-badge">
 
+Interested in designing experiences that are simple, enjoyable, and easy to use.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
 <img src="https://img.shields.io/badge/Continuous-Learning-22c55e?style=for-the-badge">
+
+Always exploring new technologies, creative tools, and ways to improve as a designer and developer.
+
+</td>
+</tr>
+</table>
+
 
 ---
 ## 🎓 Educational Project Experience
