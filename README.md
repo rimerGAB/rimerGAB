@@ -20,7 +20,6 @@
 
 **Web Application Development (WAD) Final Project** | May 2026
 
-Designed and developed a modern staff management system focused on creating a clean, intuitive, and user-friendly experience for managing departments, employees, projects, and assignments. This project allowed me to explore UI/UX principles, responsive interface design, and frontend development while implementing secure backend functionality using Laravel.
 
 <table>
 <tr>
@@ -29,6 +28,7 @@ Designed and developed a modern staff management system focused on creating a cl
 </td>
 
 <td width="40%" valign="top">
+Designed and developed a modern staff management system focused on creating a clean, intuitive, and user-friendly experience for managing departments, employees, projects, and assignments. This project allowed me to explore UI/UX principles, responsive interface design, and frontend development while implementing secure backend functionality using Laravel.
 
 ### 🔗 Project Links
 
