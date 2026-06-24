@@ -34,7 +34,7 @@ Designed and developed a modern staff management system focused on creating a cl
 
 <img src="pics/dashboard.jpg" width="100%" alt="Assignly Showcase">
 
-🔗 Repository: [View Project]([https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY])
+🔗 Repository: [View Project](https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY)
 
 ---
 ## 🛠️ Languages & Tools
