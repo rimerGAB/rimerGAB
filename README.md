@@ -16,5 +16,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/rimer gabaleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimer gabaleo" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MYTERYGUEST" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rimer arciola gabaleo" height="30" width="40" /></a>
-<a href="https://discord.gg/gabbbster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gabbbster(851394824204189716)" height="30" width="40" /></a>
+<a href="https://discord.gg/TrawHdDApy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gabbbster(851394824204189716)" height="30" width="40" /></a>
 </p>
