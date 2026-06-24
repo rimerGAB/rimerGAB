@@ -7,7 +7,8 @@
 </h1>
 
 <h4 align="center">
-🧠 Passionate about designing experiences that are simple, accessible, and enjoyable for people to use.\n
+🧠 Passionate about designing experiences that are simple, accessible, and enjoyable for people to use.
+
 Turning curiosity into creativity through design, code, and continuous learning.
 </h4>
 <h4>
