@@ -32,7 +32,7 @@
 
 Designed and developed a modern staff management system focused on creating a clean, intuitive, and user-friendly experience for managing departments, employees, projects, and assignments. This project allowed me to explore UI/UX principles, responsive interface design, and frontend development while implementing secure backend functionality using Laravel.
 
-<img src="pics/dashboard.jpg" width="100%" alt="Assignly Showcase">
+<img src="pics/dashboard.jpg" width="50%" alt="Assignly Showcase">
 
 🔗 Repository: [View Project](https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY)
 
