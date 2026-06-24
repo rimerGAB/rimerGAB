@@ -14,16 +14,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-- 🎓 Information Systems Student
-- 🎨 Aspiring UI/UX Designer
-- 💻 Learning Frontend Development
-- 🌱 Building projects and improving every day
-- ✨ Interested in creating intuitive and user-friendly digital experiences
-
----
 ## 🎓 Educational Project Experience
 
 ### Assignly — Staff Management System
@@ -31,17 +21,25 @@
 **Web Application Development (WAD) Final Project** | May 2026
 
 Designed and developed a modern staff management system focused on creating a clean, intuitive, and user-friendly experience for managing departments, employees, projects, and assignments. This project allowed me to explore UI/UX principles, responsive interface design, and frontend development while implementing secure backend functionality using Laravel.
+
 <table>
 <tr>
-<td width="50%">
-
+<td width="60%">
 <img src="pics/dashboard.jpg" width="100%" alt="Assignly Showcase">
+</td>
+
+<td width="40%" valign="top">
+
+### 🔗 Project Links
+
+<a href="https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY">View Repository</a>
 
 </td>
-<td width="50%">
+</tr>
+</table>
 
+---
 
-🔗 Repository: [View Project](https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY)
 
 ---
 ## 🛠️ Languages & Tools
