@@ -156,7 +156,7 @@ Designed and developed a modern staff management system focused on creating a cl
 </a>
 
 <a href="https://laravel.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
