@@ -12,6 +12,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rimergab&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rimergab" />
 </p>
+---
+## 🚀 About Me
+
+* 🎓 Information Systems Student
+* 🎨 Aspiring UI/UX Designer
+* 💻 Learning Frontend Development
+* 🎮 Exploring Game Development with Godot
+* 🖌️ Creating Pixel Art and Game Sprites
+* 🌱 Building projects and improving every day
+* ✨ Passionate about designing intuitive and user-friendly digital experiences
+* 🏗️ Interested in web applications, game systems, and interactive experiences
+* 🚀 Always learning new technologies and creative skills
 
 ---
 ## 🎓 Educational Project Experience
