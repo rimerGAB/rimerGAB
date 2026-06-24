@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=rimergab&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rimergab" />
 </p>
 ---
+
 ## 🚀 About Me
 
 * 🎓 Information Systems Student
