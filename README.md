@@ -8,7 +8,9 @@
 <h4 align="center">
 Turning curiosity into creativity through design, code, and continuous learning.
 </h4>
+<h4>
 
+</h4>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rimergab&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rimergab" />
 </p>
