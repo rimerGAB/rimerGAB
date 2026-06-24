@@ -26,14 +26,16 @@
 ---
 ## 🎓 Educational Project Experience
 
-### AI-Powered Rental Platform
-**Information Systems Academic Project** | 2025 - Present
+### Assignly — Staff Management System
 
-Designed and developed a rental platform concept that helps students and young professionals find suitable accommodations through AI-powered recommendations, location insights, verified profiles, and user reviews.
+**Web Application Development (WAD) Final Project** | May 2026
 
-<img src="assets/rental-app-showcase.png" width="100%" alt="Project Showcase">
+Developed a web-based staff management system using Laravel to streamline the management of departments, employees, projects, and assignments. The application features secure authentication, role-based access control, relational database management, and complete CRUD functionality. Built following the MVC architecture and Laravel best practices to demonstrate practical skills in full-stack web application development.
 
-🔗 Repository: [View Project](https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY)
+<img src="pics/dashboard.jpg" width="100%" alt="Assignly Showcase">
+
+🔗 Repository: [View Project](YOUR_REPOSITORY_LINK)
+
 ---
 ## 🛠️ Languages & Tools
 
