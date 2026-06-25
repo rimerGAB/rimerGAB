@@ -126,7 +126,7 @@ Designed and developed a modern staff management system focused on creating a cl
 <tr>
 <td width="60%">
 <p align="center">
-  <img src="pics/2026-04-1320-03-55-ezgif.com-gif-maker.gif" width="400">
+  <img src="pics/optimized.gif" width="400">
 </p>
 </td>
 
