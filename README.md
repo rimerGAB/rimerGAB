@@ -125,7 +125,7 @@ Designed and developed a modern staff management system focused on creating a cl
 <table>
 <tr>
 <td width="60%">
-<img src="pics/2026-04-1320-03-55-ezgif.com-gif-maker.gif" width="100%" alt="Second Project">
+<img src="https://raw.githubusercontent.com/rimerGAB/rimergab/main/pics/2026-04-1320-03-55-ezgif.com-gif-maker.gif" width="100%" alt="Godot Gameplay">
 </td>
 
 <td width="40%" valign="top">
