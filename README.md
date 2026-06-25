@@ -5,6 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Rimer-Rey A. Gabaleo 
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+UI%2FUX+Designer;Frontend+Developer+in+Progress;Game+Developer+with+Godot;Learning+Through+Building+and+Creating" alt="Typing SVG" />
+</p>
 
 <h4 align="center">
 🧠 Passionate about designing experiences that are simple, accessible, and enjoyable for people to use.
@@ -226,9 +229,6 @@ In Development
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimergab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
