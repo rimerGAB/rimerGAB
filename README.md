@@ -103,15 +103,43 @@ Always exploring new technologies, creative tools, and ways to improve as a desi
 
 <td width="40%" valign="top">
 
+### Web Application Development
+
+![Laravel](https://img.shields.io/badge/stack-Laravel-red?style=for-the-badge&logo=laravel)
+
+Assignly — Staff Management System
+
+Designed and developed a modern staff management system focused on creating a clean, intuitive, and user-friendly experience for managing departments, employees, projects, and assignments.
+
+### 🔗 Project Link
+<a href="https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY">View Repository</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+<img src="pics/your-second-project.jpg" width="100%" alt="Second Project">
+</td>
+
+<td width="40%" valign="top">
+
+Game Development
 
 
 
-### Web Application Development![Laravel](https://img.shields.io/badge/stack-Laravel-red?style=for-the-badge&logo=laravel)
-Assignly — Staff Management System 
 
-Designed and developed a modern staff management system focused on creating a clean, intuitive, and user-friendly experience for managing departments, employees, projects, and assignments. This project allowed me to explore UI/UX principles, responsive interface design, and frontend development while implementing secure backend functionality using Laravel.
+Untitled 2D Pixel Game
 
-### 🔗project link <a href="https://github.com/rimerGAB/WAD-PROJECT-ASSIGNLY">View Repository</a>
+Currently exploring game development through Godot by creating a 2D pixel-art world and designing core gameplay systems. This project serves as a hands-on learning experience in game mechanics, level design, world-building, sprite creation, and player interaction while developing my skills in both programming and game design.
+
+🎮 Project Status
+
+In Development
 
 
 
