@@ -90,7 +90,7 @@ Always exploring new technologies, creative tools, and ways to improve as a desi
 
 
 ---
-## 🎓 Educational Project Experience
+## 🎓 Project Experiences
 
 
 
@@ -133,7 +133,8 @@ Game Development
 
 
 
- 2D Pixel Game
+2D Pixel Game
+
 <img src="https://img.shields.io/badge/Game%20Development-Godot-478cbf?style=for-the-badge">
 
 Currently exploring game development through Godot by creating a 2D pixel-art world and designing core gameplay systems. This project serves as a hands-on learning experience in game mechanics, level design, world-building, sprite creation, and player interaction while developing my skills in both programming and game design.
