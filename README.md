@@ -245,4 +245,6 @@ In Development
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="35" width="45" />
 </a>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer"/>
+
 </p>
