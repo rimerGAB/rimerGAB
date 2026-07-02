@@ -22,7 +22,7 @@ Turning curiosity into creativity through design, code, and continuous learning.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ Always exploring new technologies, creative tools, and ways to improve as a desi
 
 
 ---
-## 🎓 Project Experiences
+## Project Experiences
 
 
 
