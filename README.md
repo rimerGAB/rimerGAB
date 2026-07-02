@@ -157,7 +157,7 @@ In Development
 
 
 ---
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
 
@@ -233,7 +233,7 @@ In Development
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rimerGAB&theme=tokyonight" />
@@ -247,7 +247,7 @@ In Development
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
